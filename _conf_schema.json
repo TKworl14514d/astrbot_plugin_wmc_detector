@@ -1,0 +1,9 @@
+{
+  "REPLY_CONTENT":{
+    "description":"回复内容",
+    "type":"string",
+    "hint":"检测成功是wmc后回复的内容",
+    "obvious_hint":true,
+    "default":"wmc"
+  }
+}
