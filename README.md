@@ -1,9 +1,7 @@
-# helloworld
+# wmc Detector
 
-AstrBot 插件模板
+基于AstrBot框架开发的舞萌吃检测插件，可用于检测其他人发送的舞萌成绩图。
 
-A template plugin for AstrBot plugin feature
+新人练手，模型基于pytorch训练，训练集样本约1000个，多为舞萌成绩图，选歌段位结算画面较少。
 
-# 支持
-
-[帮助文档](https://astrbot.app)
+https://docs.astrbot.app/dev/core/overall_architecture.html
