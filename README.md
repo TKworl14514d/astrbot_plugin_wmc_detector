@@ -1,9 +1,7 @@
-# helloworld
+# wmc_detector
 
-AstrBot 插件模板
+基于AstrBot框架开发的插件，可用于识别聊天中的舞萌成绩图并进行回复
 
-A template plugin for AstrBot plugin feature
+回复内容可进行修改
 
-# 支持
-
-[帮助文档](https://astrbot.app)
+模型基于pytorch训练，本质为二分类模型，可根据需求进行替换
